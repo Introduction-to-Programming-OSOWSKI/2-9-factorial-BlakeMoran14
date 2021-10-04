@@ -5,5 +5,3 @@ def factorial(x):
         x = x * i
 
     return x
-
-print(factorial(10))
